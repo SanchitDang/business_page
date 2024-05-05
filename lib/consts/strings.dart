@@ -1,0 +1,9 @@
+const avail = "Select Your Availability";
+const status = "Add Your Status";
+const distance = "Select Hyper local Distance";
+const purpose = "Select Purpose";
+const item1 = "Away | Hey Let Us Connect";
+const item2 = "Away | Stay Discrete And Watch";
+const item3 = "Busy | Do Not Disturb | Will Catch Up Later";
+const item4 = "SOS | Emergency! Need Assistance | HELP";
+const connections = 'Hi community! I am open to new connections "😊".';
